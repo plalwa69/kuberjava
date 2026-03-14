@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: circle-area-container
-        image: abdul2108/circle-area:1.0
+        image: username/circle-area:1.0
